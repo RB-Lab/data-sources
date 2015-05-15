@@ -6,3 +6,4 @@ Here I'm puting the freely available API for getting the data to use in demo app
 - **ProgrammableWeb: the world's largest API repository** -- http://www.programmableweb.com/apis/directory
 - **OpenWeatherMap's API** -- http://openweathermap.org/api
 - *Yet another place to dig in* -- http://blog.visual.ly/data-sources/
+- https://www.publicapis.com/ -- **Yet another API repository**
